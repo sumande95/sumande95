@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumande95
 - 👀 I’m interested in Laravel, React Native, Java
-- 🌱 I’m currently learning Cake PHP, React Native
+- 🌱 I’m currently learning Cake PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - Gmail-id: sumande921995@gmail.com
 
