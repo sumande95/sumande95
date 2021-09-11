@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sumande95
-- 👀 I’m interested in Laravel, React Native, Java
-- 🌱 I’m currently learning Cake PHP
+- 👋 Hi, I’m Suman De
+- 👀 I’m interested in New Technologies..
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - Gmail-id: sumande921995@gmail.com
+- 📫 My contact information (Gmail): sumande921995@gmail.com
 
 <!---
 sumande95/sumande95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
