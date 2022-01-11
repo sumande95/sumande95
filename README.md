@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suman De
 - 👀 I’m interested in New Technologies..
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Node JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 My contact information (Gmail): sumande921995@gmail.com
 
