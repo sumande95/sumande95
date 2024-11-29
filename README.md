@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suman De, An Associate Developer (Web Developer)
 - 👀 I’m interested in New Technologies..
-- 🌱 I’m currently learning MERN STACK
+- 🌱 Now started learning MERN STACK
 - 📫 My contact information (Gmail): sumande921995@gmail.com
 
 <!---
